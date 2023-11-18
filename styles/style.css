@@ -29,6 +29,7 @@ a {
   font-family: IBM Plex Mono, monospace;
   background-image: var(--bg-image);
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .title_decor {
